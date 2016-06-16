@@ -4,12 +4,7 @@
 开发的意义：OCR在后端的单字识别模块已经相当高了，不管使用hog+svm组合，还是CNN。
 目前，身份证、银行卡识别都采用约束型的方式进行图片采集，得以减少噪声提高整体识别率。
 
-Image processing:
-  1.Rescaling
-  2.Binarisation
-  3.Noise Removal
-  4.Rotation / Deskewing
-  5.Border Removal
+Image processing: 1)Rescaling. 2)Binarisation. 3)Noise Removal. 4)Rotation. / Deskewing. 5)Border Removal.
 
 # 文件夹说明
 ## lsd_line  图像矫正程序
