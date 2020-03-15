@@ -18,3 +18,4 @@ Image processing: 1)Rescaling. 2)Binarisation. 3)Noise Removal. 4)Rotation. / De
 先裁剪图片，消除非卡号所在区域的影响。
 
 
+4年后，ocr有的新的发展...周末抽时间更新一下。
